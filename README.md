@@ -1,3 +1,15 @@
+```html
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\$$', '\$$']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']]
+    }
+  };
+</script>
+```
 # LaTeX Formulas in Collapsible Sections
 
 ## Basic Mathematical Formulas
@@ -8,13 +20,16 @@
 ### Pythagorean Theorem
 For a right triangle with legs of length $$a$$ and $$b$$, and hypotenuse of length $$c$$:
 
+```
 $$a^2 + b^2 = c^2$$
+```
 
 ### Quadratic Formula
-For the equation $$ax^2 + bx + c = 0$$, the solutions are:
+For the equation ```$$ax^2 + bx + c = 0$$```, the solutions are:
 
+```
 $$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
-
+```
 ### Euler's Identity
 Often called the most beautiful equation in mathematics:
 

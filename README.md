@@ -1,6 +1,3 @@
----
-layout: default
----
 # AI in Math seminar
 ## Using Contemporary Machine Learning and Artificial Intelligence Techniques and their Applications in Mathematical Research
 

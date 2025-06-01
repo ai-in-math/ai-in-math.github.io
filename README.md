@@ -1,3 +1,5 @@
+# AI in Math Seminar
+
 ## Using Contemporary Machine Learning and Artificial Intelligence Techniques and their Applications in Mathematical Research
 
 ### 📋 **Seminar Description**
@@ -21,11 +23,11 @@ This academic seminar explores modern tools and approaches, particularly in AI a
 
 ## Definition of the Free Burnside Group
 
- {% raw %}
+{% raw %}
 The free Burnside group of rank $$m$$ and exponent $$n$$, denoted $$B(m, n)$$, is a group with $$m$$ distinguished generators $$x_1, x_2, \ldots, x_m$$ in which the identity $$x^n = 1$$ holds for all elements $$x$$, and which is the "largest" group satisfying these requirements.
 
 More precisely, the characteristic property of $$B(m, n)$$ is that, given any group $$G$$ with $$m$$ generators $$g_1, g_2, \ldots, g_m$$ and of exponent $$n$$, there is a unique homomorphism from $$B(m, n)$$ to $$G$$ that maps the $$i$$-th generator $$x_i$$ of $$B(m, n)$$ into the $$i$$-th generator $$g_i$$ of $$G$$.
- {% endraw %}
+{% endraw %}
 
 ## Group Presentation
 

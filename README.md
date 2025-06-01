@@ -14,10 +14,11 @@ This academic seminar explores modern tools and approaches, particularly in AI a
 - **Location:** Zoom
 - **Format:** Virtual
 
-### 🎯 **Key Themes Discussed**
-#### Is B(2,5) finite or infinite?
-#### Counter-example for Kaplansky conjecture (over integers)
+### 🎯 **Key Problems Being Solved**
+#### [Is B(2,5) finite or infinite?](https://github.com/adelkhafizova/ai_in_math/blob/main/burau_representation/README.md)
+#### [Counter-example for Kaplansky conjecture (over integers)](https://github.com/adelkhafizova/ai_in_math/blob/main/kaplansky_zero_divisors/README.md)
 #### Burau representation for n = 4
+#### [Andrews-Curtis conjecture](https://github.com/adelkhafizova/ai_in_math/blob/main/andrews_curtis/README.md)
 
 ## Repo
 [Github repo](https://github.com/adelkhafizova/ai_in_math)

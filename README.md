@@ -17,7 +17,8 @@ This academic seminar explores modern tools and approaches, particularly in AI a
 ### 🎯 **Key Problems Being Solved**
 #### [Is B(2,5) finite or infinite?](https://github.com/adelkhafizova/ai_in_math/blob/main/burau_representation/README.md)
 
-# The Free Burnside Group and the Burnside Problem
+<details>
+<summary>The Free Burnside Group and the Burnside Problem</summary>
 
 ## Definition of the Free Burnside Group
 
@@ -62,6 +63,7 @@ The following additional results are known (Burnside, Sanov, M. Hall):
 4. The particular case of $$B(2, 5)$$ remains open.
 
 [Burnside problem](https://en.wikipedia.org/wiki/Burnside_problem#Bounded_Burnside_problem)
+</details>
 
 #### [Counter-example for Kaplansky conjecture (over integers)](https://github.com/adelkhafizova/ai_in_math/blob/main/kaplansky_zero_divisors/README.md)
 #### Burau representation for n = 4

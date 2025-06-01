@@ -1,5 +1,5 @@
 # AI in Math seminar
-## Using Contemporary Machine Learning and Artificial Intelligence Techniques and their Applications in Mathematical Research.
+## Using Contemporary Machine Learning and Artificial Intelligence Techniques and their Applications in Mathematical Research
 
 ### 📋 **Seminar Description**
 
@@ -14,7 +14,10 @@ This academic seminar explores modern tools and approaches, particularly in AI a
 - **Location:** Zoom
 - **Format:** Virtual
 
+### 🎯 **Key Themes Discussed**
+#### Is B(2,5) finite or infinite?
+#### Counter-example for Kaplansky conjecture (over integers)
+#### Burau representation for n = 4
+
 ## Repo
 [Github repo](https://github.com/adelkhafizova/ai_in_math)
-## Meetings
-[Notes from meetings](https://docs.google.com/document/d/1T1zFEAhMW114CJFpGUuqBMwRAZMtgmrIhr149bEsjGg/edit?tab=t.0)

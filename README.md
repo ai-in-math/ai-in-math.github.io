@@ -19,18 +19,14 @@ This academic seminar explores modern tools and approaches, particularly in AI a
 - **Format:** Virtual
 
 ### 🎯 **Key Problems Being Solved**
-#### [Is B(2,5) finite or infinite?](https://github.com/adelkhafizova/ai_in_math/blob/main/burau_representation)
-
-<details>
-<summary>The Free Burnside Group and the Burnside Problem</summary>
-
-[Burnside problem](https://en.wikipedia.org/wiki/Burnside_problem#Bounded_Burnside_problem)
-
-</details>
 
 #### [Counter-example for Kaplansky conjecture (over integers)](https://github.com/adelkhafizova/ai_in_math/blob/main/kaplansky_zero_divisors)
-#### Burau representation for n = 4
+
+#### [Burau representation for n = 4](https://github.com/adelkhafizova/ai_in_math/blob/main/burau_representation)
+
 #### [Andrews-Curtis conjecture](https://github.com/adelkhafizova/ai_in_math/blob/main/andrews_curtis)
+
+#### [Is B(2,5) finite or infinite?](https://github.com/adelkhafizova/ai_in_math/blob/main/b_2_5_finite)
 
 ## Repo
 [Github repo](https://github.com/adelkhafizova/ai_in_math)
